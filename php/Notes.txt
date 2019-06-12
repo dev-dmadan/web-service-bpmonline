@@ -1,0 +1,13 @@
+1. Before using this library, you need update the composer
+-- composer update
+
+2. There are 3 sample to running this library, you can look file:
+    a. request_data_service.php --> example for rest service
+    b. request_data_odata.php --> example for odata service
+    c. request_data_data_service.php --> example for dataservice
+
+3. This library just for helping how to understand and doing request API bpm'online using PHP
+
+4. Feel free for customization this code
+
+5. You can use this code for anything you want.
