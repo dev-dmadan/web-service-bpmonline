@@ -1,0 +1,15 @@
+{
+    "name": "isystemasia/web-service-bpmonline",
+    "description": "Build Library for Request Service Bpm'online using PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Romadan Saputra",
+            "email": "dev.rarasta27@gmail.com"
+        }
+    ],
+    "require": {
+        "php-curl-class/php-curl-class": "^8.5"
+    }
+}
